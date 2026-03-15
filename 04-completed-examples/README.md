@@ -38,4 +38,4 @@ project-name/
 
 ## Note
 
-These are the **starter** output (5 files). The full templates in `01-reference-materials/full-templates/` generate ~28 files including docs, multiple skills, hooks, commands, and a memory system.
+These are the **starter** output (5 files). The full templates in `01-workshop-handouts/full-templates/` generate ~28 files including docs, multiple skills, hooks, commands, and a memory system.

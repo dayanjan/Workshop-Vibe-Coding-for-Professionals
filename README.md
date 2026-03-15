@@ -40,8 +40,8 @@ That's it. One paste, one restart, one working AI workflow.
 
 | Directory | What's Inside | How to Use |
 |-----------|--------------|------------|
-| `01-reference-materials/full-templates/` | Full v2.2 templates (~500-600 lines, ~28 files each) | Take-home for deeper projects |
-| `01-reference-materials/workshop-guide/` | Complete workshop reference guide (.md, .docx, .pdf) | Comprehensive walkthrough of Claude Code project architecture |
+| `01-workshop-handouts/full-templates/` | Full v2.2 templates (~500-600 lines, ~28 files each) | Take-home for deeper projects |
+| `01-workshop-handouts/workshop-guide/` | Complete workshop reference guide (.md, .docx, .pdf) | Comprehensive walkthrough of Claude Code project architecture |
 | `02-presentation/` | Opening presentation slides | 30-minute overview of the workflow harness concept |
 | `03-starter-projects/` | 3 standalone project folders, each with a `BUILD-THIS-PROJECT.md` template | Pick one, open in VS Code, paste template into Claude Code |
 | `04-completed-examples/` | What each project looks like after Claude builds it (CLAUDE.md, skill, agent, rule) | Compare your output or use as a fallback |

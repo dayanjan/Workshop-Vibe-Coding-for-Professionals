@@ -37,4 +37,4 @@ Check `04-completed-examples/` in the parent directory — those folders show ex
 
 ## Ready for More?
 
-After the workshop, use the full templates in `01-reference-materials/full-templates/` to generate a complete project with docs, multiple skills, hooks, slash commands, and a memory system (~28 files).
+After the workshop, use the full templates in `01-workshop-handouts/full-templates/` to generate a complete project with docs, multiple skills, hooks, slash commands, and a memory system (~28 files).
