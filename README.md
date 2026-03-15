@@ -29,7 +29,6 @@ The breakthrough moment: attendees pasted a single template (`BUILD-THIS-PROJECT
 | `reference-materials/full-templates/` | Full v2.2 templates (~500-600 lines, ~28 files each) | Take-home for deeper projects |
 | `reference-materials/workshop-guide/` | Complete workshop reference guide (.md, .docx, .pdf) | Comprehensive walkthrough of Claude Code project architecture |
 | `presentation/` | Opening presentation slides | 30-minute overview of the workflow harness concept |
-| `images/` | Workshop photos | — |
 
 ## The Three Use Cases
 
