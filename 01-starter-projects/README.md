@@ -33,8 +33,8 @@ Each starter template produces the same 5-file structure — the minimum needed 
 
 ## Want to See the Expected Output?
 
-Check `completed-examples/` in the parent directory — those folders show exactly what your project should look like after Claude builds it out.
+Check `02-completed-examples/` in the parent directory — those folders show exactly what your project should look like after Claude builds it out.
 
 ## Ready for More?
 
-After the workshop, use the full templates in `reference-materials/full-templates/` to generate a complete project with docs, multiple skills, hooks, slash commands, and a memory system (~28 files).
+After the workshop, use the full templates in `03-reference-materials/full-templates/` to generate a complete project with docs, multiple skills, hooks, slash commands, and a memory system (~28 files).

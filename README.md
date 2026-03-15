@@ -6,7 +6,7 @@
 
 Workshop materials from the [AI Ready RVA](https://aireadyrva.com) session at VCU School of Pharmacy, Laboratory of Digital Health — March 14, 2026.
 
-![Workshop in action — participants building AI workflow harnesses at VCU School of Pharmacy](images/workshop-photo.jpg)
+![Workshop in action — participants building AI workflow harnesses at VCU School of Pharmacy](05-images/workshop-photo.jpg)
 
 ## Why This Matters
 
@@ -22,16 +22,16 @@ If you've never used a terminal before, follow these five steps:
 
 1. **Download this repo** — click the green **Code** button above, then **Download ZIP**, and unzip it
 2. **Install [VS Code](https://code.visualstudio.com/)** and **[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)** (requires an Anthropic API key or Claude Pro/Max subscription)
-3. **Open one starter project folder** in VS Code (e.g., `starter-projects/richmond-workforce-analysis/`)
+3. **Open one starter project folder** in VS Code (e.g., `01-starter-projects/richmond-workforce-analysis/`)
 4. **Open the terminal** (Ctrl+`` ` ``), type `claude`, and **paste the entire contents of `BUILD-THIS-PROJECT.md`**
-5. **Wait ~15 minutes** for Claude to generate your project, then **restart Claude Code** so it loads the new CLAUDE.md — compare your output to `completed-examples/` to verify it worked
+5. **Wait ~15 minutes** for Claude to generate your project, then **restart Claude Code** so it loads the new CLAUDE.md — compare your output to `02-completed-examples/` to verify it worked
 
 That's it. One paste, one restart, one working AI workflow.
 
 ## Quick Start (For Developers)
 
 1. **Install Claude Code**: `winget install Anthropic.ClaudeCode` (Windows) or `brew install claude-code` (macOS)
-2. **Pick a starter project** from `starter-projects/` and open the folder in VS Code
+2. **Pick a starter project** from `01-starter-projects/` and open the folder in VS Code
 3. **Start Claude Code** — open the terminal and type `claude`
 4. **Copy the contents of `BUILD-THIS-PROJECT.md`** and paste it into Claude Code
 5. **Restart Claude Code** after generation so it loads the new CLAUDE.md
@@ -40,11 +40,11 @@ That's it. One paste, one restart, one working AI workflow.
 
 | Directory | What's Inside | How to Use |
 |-----------|--------------|------------|
-| `starter-projects/` | 3 standalone project folders, each with a `BUILD-THIS-PROJECT.md` template | Pick one, open in VS Code, paste template into Claude Code |
-| `completed-examples/` | What each project looks like after Claude builds it (CLAUDE.md, skill, agent, rule) | Compare your output or use as a fallback |
-| `reference-materials/full-templates/` | Full v2.2 templates (~500-600 lines, ~28 files each) | Take-home for deeper projects |
-| `reference-materials/workshop-guide/` | Complete workshop reference guide (.md, .docx, .pdf) | Comprehensive walkthrough of Claude Code project architecture |
-| `presentation/` | Opening presentation slides | 30-minute overview of the workflow harness concept |
+| `01-starter-projects/` | 3 standalone project folders, each with a `BUILD-THIS-PROJECT.md` template | Pick one, open in VS Code, paste template into Claude Code |
+| `02-completed-examples/` | What each project looks like after Claude builds it (CLAUDE.md, skill, agent, rule) | Compare your output or use as a fallback |
+| `03-reference-materials/full-templates/` | Full v2.2 templates (~500-600 lines, ~28 files each) | Take-home for deeper projects |
+| `03-reference-materials/workshop-guide/` | Complete workshop reference guide (.md, .docx, .pdf) | Comprehensive walkthrough of Claude Code project architecture |
+| `04-presentation/` | Opening presentation slides | 30-minute overview of the workflow harness concept |
 
 ## The Three Use Cases
 
